@@ -14,3 +14,10 @@ Belajar Frontend Backend with AI (progres 20%)
 * Mengenal AI
 * Pengaplikasian AI dalam Project
 * dll
+
+  **5 September 2025**<br>
+Belajar Frontend Backend with AI (progres 100%)
+* Mengenal AI
+* Pengaplikasian AI dalam Project
+* dll
+
