@@ -9,4 +9,8 @@ Belajar Pemrograman dasar dengan java (progres 100%)
 Jika anda ingin jadi Programer Hebat jangan lupa mengikuti kelas dicoding.
 kunjungi http://dicoding.com
 
-
+1 September 2025
+Belajar Frontend Backend with AI (progres 20%)
+- Mengenal AI
+- Pengaplikasian AI dalam Project
+- dll
